@@ -1,3 +1,4 @@
+//funcion para encender led
 function encenderLed () {
 	var five = require("johnny-five"),
 	board = new five.Board();

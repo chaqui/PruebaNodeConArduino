@@ -1,3 +1,4 @@
+//server para llamar funcion de encendido de led
 var http = require("http");
 var url = require("url");
 var jr = require("./jf");
